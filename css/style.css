@@ -1,0 +1,4 @@
+body{
+    background-color: aquamarine;
+    background-image: linear-gradient(to bottom right, aquamarine, rgb(213, 215, 109));
+}
